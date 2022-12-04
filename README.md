@@ -27,7 +27,7 @@ We want to rearrange the data in a comprehensible manner to produce an easy to u
 
 ## Results
 
--Cleaned up the dataset from unnecessary and incomplete data while renaming and reformatting columns for better performance.
+- Cleaned up the dataset from unnecessary and incomplete data while renaming and reformatting columns for better performance.
 
 - From daily cumulative cases and deaths columns, we created new dataset with added columns of daily cases and deaths.
 
