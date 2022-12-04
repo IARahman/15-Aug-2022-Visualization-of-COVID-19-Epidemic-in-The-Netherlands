@@ -27,7 +27,11 @@ We want to rearrange the data in a comprehensible manner to produce an easy to u
 
 ## Results
 
-- Out of 5 clustering algorithms, we settled for KMeans algorithm that divides the customer base into 4: `Hybernating`, `New`, `Potential Loyalist` and `Loyalist`.
+-Cleaned up the dataset from unnecessary and incomplete data while renaming and reformatting columns for better performance.
 
-- Our sales prediction model forecasted that for the next 6 months item types `apparatus`, `contraption` and `widget` will have an increase in sales while `tools`, `mechanism` and `dongle` will have a decrease instead.
+- From daily cumulative cases and deaths columns, we created new dataset with added columns of daily cases and deaths.
+
+- Successfully done queries into the new dataset with conditions, grouping, aggregating and sorting 
+
+- Created graphs of cumulative cases and deaths on regional and national level.
 
